@@ -1,4 +1,4 @@
-README for Data and R code for the systematic review project.
+README for Data and R code for a systematic review project regarding human viruses on fomites (inanimate objects).
 
 Author: WZ
 Associated publication: https://doi.org/10.1021/acsenvironau.3c00025
