@@ -12,10 +12,11 @@ FILES
 1) systematic_review.Rproj
 Necessary to run main R script. Save all files (includes this one) in the same directory before running main_systematic_review.R.
 
-1) main_systematic_review.R
+2) main_systematic_review.R
 The main script for the analysis. This script is used to analyze the results of a systematic review regarding the occurrence of human viruses on fomites in the environment.
 
-5) data_systematic_review.xlsx
+3) data_systematic_review.xlsx
+[Original data source: https://purl.stanford.edu/rg368zb3188?ref=PDF]
 Full.Citation: 			Source of dataset
 Virus:				Virus type as reported by the study
 Viral.Family:			Viral family of virus, used for analysis and reporting
@@ -38,7 +39,7 @@ Number.of.Samples:		Total number of fomite samples
 Number.of.Positive.Samples:	Total number of fomite samples found positive
 Positivity.Rate:		Percent of fomites sampled that were positive (Number.of.Positive.Samples/Number.of.Samples)
 
-6) Stanford_Policies_Quarters.xlsx
+4) classification_systematic_review.xlsx
 Label: 				Category name, used for reporting and quantification
 Value:				Observations as found in raw data
 --
